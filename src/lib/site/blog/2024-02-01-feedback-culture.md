@@ -1,12 +1,12 @@
 ---
-title: Building a Healthy Feedback Culture in Your Team
+title: "Articolo "
 content: >-
   A strong feedback culture is the backbone of continuous improvement and team
   growth. When feedback flows freely and constructively, teams become more
   innovative, adaptable, and resilient.
 
 
-  ## The Foundation of Effective Feedback
+  ## titolo
 
 
   ### 1\. Safety First
